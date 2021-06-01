@@ -15,4 +15,4 @@ This solution is a quantum annealing-based deep learning approach to learn and u
 * Need customized Quantum Computing solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-uia2s7d6vuapc)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-negkooipspbyu)
